@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/BPTree.cpp.o -c /home/acer/DS/phase-3-team-25/src/BPTree.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/BPTree.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/BPTree.cpp.o"
+},
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/Block.cpp.o -c /home/acer/DS/phase-3-team-25/src/Block.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/Block.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/Block.cpp.o"
+},
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/InternalNode.cpp.o -c /home/acer/DS/phase-3-team-25/src/InternalNode.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/InternalNode.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/InternalNode.cpp.o"
+},
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/LeafNode.cpp.o -c /home/acer/DS/phase-3-team-25/src/LeafNode.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/LeafNode.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/LeafNode.cpp.o"
+},
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/Query.cpp.o -c /home/acer/DS/phase-3-team-25/src/Query.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/Query.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/Query.cpp.o"
+},
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/RecordPtr.cpp.o -c /home/acer/DS/phase-3-team-25/src/RecordPtr.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/RecordPtr.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/RecordPtr.cpp.o"
+},
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/TreeNode.cpp.o -c /home/acer/DS/phase-3-team-25/src/TreeNode.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/TreeNode.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/TreeNode.cpp.o"
+},
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/UnorderedHeap.cpp.o -c /home/acer/DS/phase-3-team-25/src/UnorderedHeap.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/UnorderedHeap.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/UnorderedHeap.cpp.o"
+},
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/main.cpp.o -c /home/acer/DS/phase-3-team-25/src/main.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/main.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/acer/DS/phase-3-team-25/build",
+  "command": "/usr/bin/g++  -I/home/acer/DS/phase-3-team-25/include -I/home/acer/DS/phase-3-team-25/src -g -std=gnu++11 -o CMakeFiles/BPTree.dir/src/utils.cpp.o -c /home/acer/DS/phase-3-team-25/src/utils.cpp",
+  "file": "/home/acer/DS/phase-3-team-25/src/utils.cpp",
+  "output": "CMakeFiles/BPTree.dir/src/utils.cpp.o"
+}
+]

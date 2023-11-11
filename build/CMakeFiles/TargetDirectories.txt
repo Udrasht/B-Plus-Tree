@@ -1,0 +1,3 @@
+/home/acer/DS/phase-3-team-25/build/CMakeFiles/BPTree.dir
+/home/acer/DS/phase-3-team-25/build/CMakeFiles/edit_cache.dir
+/home/acer/DS/phase-3-team-25/build/CMakeFiles/rebuild_cache.dir
